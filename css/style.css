@@ -1,0 +1,98 @@
+body{
+	margin: 0px;
+	padding:0px;
+}
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+.header{
+	background-color: rgb(67, 172, 247);
+	text-align: center;
+	min-height: 40px;
+	border: 1px solid rgb(7, 18, 168);
+}
+.header h1{
+	padding-top: 1%;
+}
+.path{
+	background-color: rgb(245, 157, 224);
+	text-align: center;
+	min-height: 100px;
+	border: 1px solid rgb(247, 52, 201);
+}
+.path h1{
+	padding-top: 3%;
+}
+.docktop{
+	background-color: rgb(255, 245, 171);
+	text-align: center;
+	min-height: 100px;
+	border: 1px solid rgb(235, 192, 52);
+}
+.docktop h1{
+	padding-top: 2%;
+}
+.wrapper{
+	overflow: hidden;
+}
+.wrapper div{
+	width: 32.54%;
+	float: left;
+
+}
+.central_pannel div{
+	width: 100%;
+}
+.dockleft{
+	background-color: rgb(247, 198, 222);
+	height: 500px;
+	border: 1px solid red;
+}
+.dockleft h1{
+	padding-top: 50%;
+}
+.dockright{
+	background-color: rgb(186, 245, 152);
+	height: 500px;
+	border: 1px solid rgb(3, 77, 3);
+}
+.dockright h1{
+	padding-top: 50%;
+}
+.error{
+	background-color: rgb(196, 196, 242);
+	height: 75px;
+	border: 1px solid rgb(169, 124, 247);
+}
+.error h1{
+	padding-top: 5%;
+}
+.content{
+	background-color: rgb(190, 188, 212);
+	height: 422px;
+	border: 1px solid rgb(0,0,0);
+}
+.content h1{
+	padding-top: 50%;
+}
+.docbottom{
+	background-color: rgb(174, 242, 213);
+	text-align: center;
+	min-height: 40px;
+	border: 1px solid rgb(144, 215, 245);
+}
+.docbottom h1{
+	padding-top: 1%;
+}
+.footer{
+	background-color: rgb(247, 193, 153);
+	text-align: center;
+	min-height: 40px;
+	border: 1px solid rgb(242, 109, 10);
+}
+.footer h1{
+	padding-top: 1%;
+}
